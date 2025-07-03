@@ -183,3 +183,38 @@ Wireframes fit naturally into **agile workflows**, providing a lightweight desig
 ---
 
 Wireframing is not just a design task — it's a **strategic tool** for building better software, faster and more collaboratively.
+
+## 🧪 Wireframing in Practice
+
+### 📍 Real-World Scenario: RoomieRent Platform
+
+During the early stages of developing **RoomieRent** — a roommate listing and property-sharing platform — we created a low-fidelity wireframe to map out the user dashboard, including navigation, profile management, and roommate matches.
+
+### 🔍 Usability Issue Identified
+
+Initial wireframes revealed a key usability issue: the **“Post a Listing” button was buried inside a submenu**, making it hard for new users to quickly list properties. This could have caused frustration and a high drop-off rate.
+
+### ✅ How It Was Resolved
+
+By spotting this in the wireframe:
+- We **moved the “Post a Listing” button to the top-level dashboard view**
+- Made it visually distinct and accessible from all pages
+
+This small change was simple at the wireframe stage and significantly improved **task discoverability** and **user flow**.
+
+---
+
+### 💡 Impact on Final Product
+
+Thanks to this early discovery:
+- Fewer design revisions were needed during development
+- User testing showed **increased engagement**
+- New users found it easier to navigate and take action, improving the platform’s overall UX
+
+---
+
+### 🧠 Conclusion
+
+This scenario highlights how **wireframing acts as a low-cost, high-impact method** for identifying and solving usability issues *before* any code is written. Wireframes allow teams to test structure, layout, and interaction flows early — ensuring a user-friendly, intuitive product from the ground up.
+
+Wireframing doesn't just save time — it builds **clarity, alignment, and confidence** across the entire development team.
