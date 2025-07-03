@@ -105,3 +105,32 @@ These are **more detailed and polished** wireframes that resemble the final desi
 The wireframe used in this repository is a **Low-Fidelity Wireframe**.
 
 It focuses on structure, layout, and core functionality without visual polish. This makes it easier to iterate, gather feedback, and lay a foundation before moving into visual design and development.
+
+## 🛠️ Wireframing Tools
+
+There are several tools available to create wireframes — ranging from basic sketching apps to full-featured collaborative design platforms. Choosing the right tool depends on your goals, team size, and stage in the design process.
+
+### 🔹 Popular Wireframing Tools
+
+- **Figma** – Cloud-based, collaborative, and beginner-friendly (⭐ Recommended)
+- **Balsamiq** – Focuses on low-fidelity wireframes with a hand-drawn feel
+- **Adobe XD** – Combines wireframing with high-fidelity prototyping
+- **Sketch** – Popular for Mac users; great for detailed UI wireframes
+- **Draw.io** – Free, browser-based diagramming tool for quick layouts
+
+---
+
+### ⭐ Why Figma is Recommended
+
+**Figma** is a powerful, web-based design tool that makes wireframing simple and collaborative. Here's why it's great for wireframing:
+
+- 🌐 **Cloud-Based**: Access your files from anywhere — no installation needed
+- 👥 **Real-Time Collaboration**: Work with your team simultaneously
+- 🎯 **Easy to Use**: Intuitive drag-and-drop interface for beginners
+- 🧩 **Reusable Components**: Create and reuse buttons, cards, and other UI elements
+- 📄 **Templates and Plugins**: Get started quickly with community resources
+
+Figma supports both **low-fidelity** and **high-fidelity** wireframes, making it suitable for all stages of the design process.
+
+🔗 Try Figma: [https://www.figma.com](https://www.figma.com)
+
