@@ -60,3 +60,48 @@ Wireframes can also illustrate **interactivity**, such as buttons, form fields, 
 ---
 
 By focusing on these core elements, wireframes help transform abstract ideas into clear, functional interfaces — laying a strong foundation for UI/UX design and development.
+
+## 🧭 Types of Wireframes
+
+Wireframes generally come in two main types based on their level of detail: **Low-Fidelity** and **High-Fidelity**. Each serves a specific purpose at different stages of the design process.
+
+---
+
+### 📝 Low-Fidelity Wireframes
+
+These are **basic sketches** or digital outlines that represent the core layout and structure without focusing on colors, fonts, or detailed graphics. They are used early in the design process to explore concepts and gather feedback quickly.
+
+**Characteristics:**
+- Black, white, and gray shades only
+- Placeholder content (e.g., “Image” or “Button”)
+- Simple lines and boxes
+- Fast to create and modify
+
+**Used When:**
+- Brainstorming ideas
+- Discussing structure with stakeholders
+- Rapid prototyping
+
+---
+
+### 🖼️ High-Fidelity Wireframes
+
+These are **more detailed and polished** wireframes that resemble the final design. They often include specific content, branding elements, and real UI components.
+
+**Characteristics:**
+- Detailed layout with images, text, and UI elements
+- Font styles, spacing, and alignment
+- Interactivity may be simulated
+
+**Used When:**
+- Finalizing design before development
+- Usability testing
+- Presenting to clients
+
+---
+
+## 🔍 Wireframe Type Used Here
+
+The wireframe used in this repository is a **Low-Fidelity Wireframe**.
+
+It focuses on structure, layout, and core functionality without visual polish. This makes it easier to iterate, gather feedback, and lay a foundation before moving into visual design and development.
